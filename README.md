@@ -11,7 +11,7 @@ This project demonstrates a complete end-to-end data analytics workflow using **
 📦Retail-Orders-Analytics
 ├── Orders.ipynb         # Python notebook for data cleaning & loading
 ├── orders.csv           # Raw retail dataset
-├── orders.pbix          # Power BI dashboard
+├── orders.png           # Power BI dashboard screenshot
 ├── orders.sql           # SQL queries for analysis
 └── README.md            # Project documentation
 ```
